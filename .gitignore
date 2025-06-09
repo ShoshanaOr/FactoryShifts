@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+.env
+dist/
+build/
+*.log
+.vscode/
+.DS_Store
+*.env
+npm-debug.log*
+
+# מערכת
+Thumbs.db
